@@ -58,10 +58,3 @@ The dashboard is powered by an employee-level dataset (`HR_Analytics_Dataset.csv
 - Average attendance (**87.21%**) indicates generally consistent workforce presence.
 - Experience levels are fairly balanced between genders, with male employees averaging slightly higher tenure.
 
-## Author
-
-Add your name, university, and course/project details here (e.g., *Business Information Technology, The University of Jordan*).
-
-## License
-
-Add a license of your choice (e.g., MIT) if this repository is public.
