@@ -8,7 +8,7 @@
 
 <h1>HR Analytics Dashboard</h1>
 
-<p>An interactive Business Intelligence dashboard built to analyze and visualize key HR metrics across an organization of <strong>4,881 employees</strong>. The dashboard consolidates workforce data — demographics, attrition, compensation, education, location, and performance indicators — into a single, filterable view that supports data-driven HR decision-making.</p>
+<p>An interactive Business Intelligence dashboard built to analyze and visualize key HR metrics across an organization of <strong>4,881 employees</strong>. The dashboard consolidates workforce data  demographics, attrition, compensation, education, location, and performance indicators  into a single, filterable view that supports data-driven HR decision-making.</p>
 
 <p>
   <img src="./dashboard-screenshot.png" alt="HR Analytics Dashboard">
