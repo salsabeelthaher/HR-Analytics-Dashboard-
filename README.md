@@ -72,11 +72,5 @@
   <li>Experience levels are fairly balanced between genders, with male employees averaging slightly higher tenure.</li>
 </ul>
 
-<h2>Author</h2>
-<p>Add your name, university, and course/project details here (e.g., <em>Business Information Technology, The University of Jordan</em>).</p>
-
-<h2>License</h2>
-<p>Add a license of your choice (e.g., MIT) if this repository is public.</p>
-
 </body>
 </html>
